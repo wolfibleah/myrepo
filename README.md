@@ -1,2 +1,3 @@
 # myrepo
-A test repository for learning Github.
+
+Initial React project + CI pipeline
